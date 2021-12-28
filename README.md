@@ -18,5 +18,13 @@ In order to run part (B) of the project:
 
 In order to run part (C) of the project:
 
+## Results
+
+### Performance of classification models on publicly available datasets
+
+### Performance of classification models on self-collected data
+
+
+
 ## Licensing
 This project is licensed under 
