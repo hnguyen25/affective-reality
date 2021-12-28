@@ -7,7 +7,7 @@ Affective reality is a [Stanford BCI](https://stanfordbci.com) project which see
 To read more about this codebase, visit this link:
 
 ## How to run
-The project consists of three parts:
+The project consists of different subsections:
 - (A) Machine learning models which classifies EEG data into various emotional/affective metrics
 - (B) A VR application made with Unity, which is used to collect experimental EEG data for emotional classification
 - (C) A VR application made with Unity, which does real-time, emotion classification based on (A) and (B)
