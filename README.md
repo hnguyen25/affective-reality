@@ -28,6 +28,3 @@ In order to run part (C) of the project:
 ### Performance of classification models on self-collected data
 
 
-
-## Licensing
-This project is licensed under 
