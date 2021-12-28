@@ -12,7 +12,10 @@ nav:
     - Real-Time Application: 'vr-app.md'
   - User API:
     - Emotion Classification:
+        - Data: 'data.md'
+        - Features: 'features.md'
         - Models: 'models.md'
+        - Visualization: 'viz.md'
     - Emotion Experiments:
         - Models: 'models.md'
     - Real-Time Application:
