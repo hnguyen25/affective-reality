@@ -1,0 +1,25 @@
+site_name: Affective Reality
+repo_url: https://github.com/hnguyen25/affective-reality
+theme:
+  name: material
+
+nav:
+  - Introduction: 'index.md'
+  - Getting Started: 'getting-started.md'
+  - Overview:
+    - Emotion Classification: 'emotion-classification.md'
+    - Emotion Experiments: 'emotion-experiments.md'
+    - Real-Time Application: 'vr-app.md'
+  - User API:
+    - Emotion Classification:
+        - Models: 'models.md'
+    - Emotion Experiments:
+        - Models: 'models.md'
+    - Real-Time Application:
+        - Models: 'models.md'
+  - About: 'about.md'
+  - "My page": home.md
+
+plugins:
+  - search
+  - mkdocstrings
