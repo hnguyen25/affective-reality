@@ -10,6 +10,14 @@
 /AffectiveRealityDataCollection/[Ll]ogs/
 /AffectiveRealityDataCollection/[Mm]emoryCaptures/
 
+/AffectiveRealityRealTime/[Ll]ibrary/
+/AffectiveRealityRealTime/[Tt]emp/
+/AffectiveRealityRealTime/[Oo]bj/
+/AffectiveRealityRealTime/[Bb]uild/
+/AffectiveRealityRealTime/[Bb]uilds/
+/AffectiveRealityRealTime/[Ll]ogs/
+/AffectiveRealityRealTime/Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
