@@ -6,22 +6,24 @@ theme:
 nav:
   - Introduction: 'index.md'
   - Getting Started: 'getting-started.md'
-  - Overview:
+  - Overview and Progress:
     - Emotion Classification: 'emotion-classification.md'
     - Emotion Experiments: 'emotion-experiments.md'
     - Real-Time Application: 'vr-app.md'
   - User API:
-    - Emotion Classification:
+    - Data Collection:
+        - Stimulus Chooser: 'stimulus-chooser.md'
+        - Experiment Runner: 'experiment-runner.md'
+        - Data Collector: 'data-collector.md'
+        - Data Saver: 'data-saver.md'
+    - Data Analysis and Modelling:
         - Data: 'data.md'
         - Features: 'features.md'
-        - Models: 'models.md'
         - Visualization: 'viz.md'
-    - Emotion Experiments:
         - Models: 'models.md'
-    - Real-Time Application:
-        - Models: 'models.md'
-  - About: 'about.md'
-  - "My page": home.md
+        - Deployment: 'deployment.md'
+    - Real-Time Application and Deployment:
+        - Sample Project -- Embodied Swarm: "embodied-swarm.md"
 
 plugins:
   - search

@@ -1,0 +1,1 @@
+Chooses stimulus (images, music, or film) to show participants

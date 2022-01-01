@@ -1,0 +1,1 @@
+Personal project for ARTSTUDI 142 which uses EEG concentration metrics in real-time to control a swarm of flocking birds.
